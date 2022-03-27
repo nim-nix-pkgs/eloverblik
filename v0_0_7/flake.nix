@@ -11,6 +11,7 @@
   inputs.src-eloverblik-v0_0_7.ref   = "refs/tags/v0.0.7";
   inputs.src-eloverblik-v0_0_7.owner = "ThomasTJdev";
   inputs.src-eloverblik-v0_0_7.repo  = "nim_eloverblik_api";
+  inputs.src-eloverblik-v0_0_7.dir   = "";
   inputs.src-eloverblik-v0_0_7.type  = "github";
   
   inputs."nmqtt".owner = "nim-nix-pkgs";
