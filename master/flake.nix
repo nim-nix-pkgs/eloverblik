@@ -11,7 +11,6 @@
   inputs.src-eloverblik-master.ref   = "refs/heads/master";
   inputs.src-eloverblik-master.owner = "ThomasTJdev";
   inputs.src-eloverblik-master.repo  = "nim_eloverblik_api";
-  inputs.src-eloverblik-master.dir   = "";
   inputs.src-eloverblik-master.type  = "github";
   
   inputs."nmqtt".owner = "nim-nix-pkgs";
