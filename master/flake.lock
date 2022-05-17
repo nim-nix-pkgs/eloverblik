@@ -104,11 +104,11 @@
       },
       "locked": {
         "dir": "v1_0_4",
-        "lastModified": 1652793464,
-        "narHash": "sha256-SELn5jWTR/NEorHKOLzrlESxnFCtN+H2+/XJwZy/WAY=",
+        "lastModified": 1652799169,
+        "narHash": "sha256-rSDopJUuVRG+2lp5qEQ07VpKzmIsSudxwsOWetIAb1c=",
         "owner": "nim-nix-pkgs",
         "repo": "nmqtt",
-        "rev": "fbbac4bc9b5d22f3fff01c7233b825f3c763a616",
+        "rev": "8cf5fe560669b9c1b7a2c47f797f1d04cfbd226c",
         "type": "github"
       },
       "original": {
